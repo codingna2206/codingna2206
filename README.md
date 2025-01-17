@@ -4,7 +4,7 @@
 </div>
 
 
-## ⏱️ This year I Spent My Time On:
+## ⏱️ I've Spent My Time On:
 ```text
 AI Intelligence   35 weeks        ██████████████████████   86.80 %
 Machine Learning  4 weeks         ███░░░░░░░░░░░░░░░░░░   09.98 %
